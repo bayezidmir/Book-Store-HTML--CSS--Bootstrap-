@@ -1,0 +1,15 @@
+.hero {
+  margin-top: 6.7rem;
+}
+
+.hero {
+  background: url("../img/mountains.jpg");
+}
+
+.overlay {
+  background: rgba(95, 158, 160, 0.791);
+}
+
+.subs-form {
+  text-align: center;
+}
